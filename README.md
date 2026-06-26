@@ -74,5 +74,5 @@ AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 
 * **[Medical Chatbot Assistant](https://github.com/meetkorat05/medical-chatbot-assistant)**
 
-  * *Tech:* Python, LangChain, Pinecone, Flask
+  * *Tech:* Python, LangChain, Gemini API, Pinecone, Flask
   * *Description:* AI-powered medical assistant chatbot capable of answering health-related queries using LangChain and Gemini API for natural language understanding.
