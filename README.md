@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Korat</h1>
+<h1 align="center">Meet Korat</h1>
 <h3 align="center">
 AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 </h3>
