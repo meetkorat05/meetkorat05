@@ -76,5 +76,3 @@ AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 
   * *Tech:* Python, LangChain, Pinecone, Flask
   * *Description:* AI-powered medical assistant chatbot capable of answering health-related queries using LangChain and Gemini API for natural language understanding.
-  * *Description:* Deployed machine learning models as RESTful APIs with a clean frontend, enabling real-time predictions through a web interface.
-
