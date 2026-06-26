@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Korat</h1>
-<h3 align="center">A Data Science enthusiast from India</h3>
+<h3 align="center">
+AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
+</h3>
 
 - 📫 How to reach me **meetkorat2105@gmail.com**
 
