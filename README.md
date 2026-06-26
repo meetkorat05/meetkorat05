@@ -3,7 +3,12 @@
 AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 </h3>
 
-- 📫 How to reach me **meetkorat2105@gmail.com**
+## 👨‍💻 About Me
+
+- 🎓 BE Information Technology Student
+- 🤖 Interested in AI Engineering, Machine Learning and Generative AI
+- 🚀 Building AI applications using Gemini, Pinecone and LangChain
+- 📫 Reach me: **meetkorat2105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
