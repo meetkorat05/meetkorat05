@@ -67,62 +67,14 @@ AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 
 # 📂 Featured Projects
 
-## 🩺 Generative AI & Retrieval-Augmented Generation (RAG)
+* **[SkillSync AI – Resume & JD Matching Agent](https://github.com/meetkorat05/SkillSync-AI)**
+
+  * *Tech:* Python, LangGraph, RAG, Groq API, Streamlit
+  * *Description:* AI-Powered Resume Intelligence Platform that analyzes resumes against job requirements, calculates, ATS compatibility scores, identifies skill gaps, and generates personalized improvement recommendations.
 
 * **[Medical Chatbot Assistant](https://github.com/meetkorat05/medical-chatbot-assistant)**
 
-  * *Tech:* Python, LangChain, Gemini API, Pinecone, Hugging Face, Flask
-  * *Description:* A Retrieval-Augmented Generation (RAG) chatbot that answers medical queries using a PDF knowledge base, semantic search, and Google's Gemini LLM.
-
-* **Medical Document Q&A System**
-
-  * *Tech:* Python, LangChain, Pinecone, Sentence Transformers, Gemini
-  * *Description:* Built a semantic document retrieval pipeline that converts PDFs into vector embeddings and generates context-aware answers using Retrieval-Augmented Generation.
-
----
-
-## 🤖 Machine Learning Projects
-
-* **[Crop Yield Prediction System](https://github.com/meetkorat05)**
-
-  * *Tech:* Python, XGBoost, Pandas, Scikit-Learn, Streamlit
-  * *Description:* Predicts agricultural crop yield using weather, fertilizer, pesticide, and seasonal data with an optimized XGBoost model and an interactive web interface.
-
-* **[Car Price Prediction](https://github.com/meetkorat05)**
-
-  * *Tech:* Python, XGBoost, Flask, Pandas
-  * *Description:* Machine learning application that estimates used car prices through feature engineering, data preprocessing, and regression models.
-
-* **Image Classification**
-
-  * *Tech:* Python, OpenCV, Scikit-Learn, SVM
-  * *Description:* Computer vision project for image classification using handcrafted image features, preprocessing techniques, and Support Vector Machines.
-
----
-
-## 📊 Data Science & Analytics
-
-* **Crime Data Analysis**
-
-  * *Tech:* Python, Pandas, NumPy, Matplotlib, Seaborn
-  * *Description:* Performed exploratory data analysis on crime datasets to identify trends, visualize patterns, and derive actionable insights through statistical analysis.
-
-* **EV Charging Demand Prediction**
-
-  * *Tech:* Python, Random Forest, Scikit-Learn, Pandas
-  * *Description:* Developed a predictive model for electric vehicle charging demand using historical charging and environmental data during the IBM × Edunet Foundation internship.
-
----
-
-## 🌐 AI Web Applications
-
-* **Medical AI Assistant**
-
-  * *Tech:* Flask, HTML, CSS, JavaScript, Gemini API
-  * *Description:* Full-stack AI application integrating an LLM backend with a responsive web interface for real-time medical question answering.
-
-* **Machine Learning Model Deployment**
-
-  * *Tech:* Flask, REST API, Docker, GitHub
+  * *Tech:* Python, LangChain, Pinecone, Flask
+  * *Description:* AI-powered medical assistant chatbot capable of answering health-related queries using LangChain and Gemini API for natural language understanding.
   * *Description:* Deployed machine learning models as RESTful APIs with a clean frontend, enabling real-time predictions through a web interface.
 
