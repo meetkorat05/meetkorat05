@@ -72,7 +72,7 @@ AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
   * *Tech:* Python, LangGraph, RAG, Groq API, Streamlit
   * *Description:* AI-Powered Resume Intelligence Platform that analyzes resumes against job requirements, calculates, ATS compatibility scores, identifies skill gaps, and generates personalized improvement recommendations.
 
-* **[Medical Chatbot Assistant](https://github.com/meetkorat05/medical-chatbot-assistant)**
+* **[RAG based Medical Chatbot Assistant](https://github.com/meetkorat05/medical-chatbot-assistant)**
 
   * *Tech:* Python, LangChain, Gemini API, Pinecone, Flask
   * *Description:* AI-powered medical assistant chatbot capable of answering health-related queries using LangChain and Gemini API for natural language understanding.
