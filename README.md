@@ -27,8 +27,6 @@ AI Engineer | Machine Learning | Generative AI | RAG | Python Developer
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-005CEA?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
 
